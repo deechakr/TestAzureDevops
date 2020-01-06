@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Test'
+  vmImage: 'Deepan_Desktop'
 
 steps:
 - script: echo Hello, world!
